@@ -1,0 +1,10 @@
+C:\Users\Админ\Desktop\Игра Life\Life\Life\bin\Debug\Life.exe.config
+C:\Users\Админ\Desktop\Игра Life\Life\Life\bin\Debug\Life.exe
+C:\Users\Админ\Desktop\Игра Life\Life\Life\bin\Debug\Life.pdb
+C:\Users\Админ\Desktop\Игра Life\Life\Life\obj\Debug\Life.csprojAssemblyReference.cache
+C:\Users\Админ\Desktop\Игра Life\Life\Life\obj\Debug\Life.Form1.resources
+C:\Users\Админ\Desktop\Игра Life\Life\Life\obj\Debug\Life.Properties.Resources.resources
+C:\Users\Админ\Desktop\Игра Life\Life\Life\obj\Debug\Life.csproj.GenerateResource.cache
+C:\Users\Админ\Desktop\Игра Life\Life\Life\obj\Debug\Life.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\Игра Life\Life\Life\obj\Debug\Life.exe
+C:\Users\Админ\Desktop\Игра Life\Life\Life\obj\Debug\Life.pdb
